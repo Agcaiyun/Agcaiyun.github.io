@@ -157,7 +157,7 @@ $ gem install jekyll
 一大堆哦(一脸嫌弃)
 * **解决方案** : 在 ```_layouts```下的```post.html```与```page.html```中
     * 首先 将两个文件中的 ```&&``` 替换为 ```and``` ;
-    * 然后 将 ```{{site.featured-condition-size}}```替换为```site.featured-condition-size```(也就是删除 {{}} )
+    * 然后 将 ``` { { site.featured-condition-size } } ```替换为```site.featured-condition-size```(也就是删除 \{\{\}\} )
 
 > 这里需要感谢 [Anc](https://github.com/Ancientwood) 在本博客留言中提供的解决方案呢~
 
