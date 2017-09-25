@@ -96,5 +96,9 @@ friends: [
     {
         title: "简书",
         href: "http://www.jianshu.com/u/a13e7484dc21"
+    },
+    {
+        title: "张旭个人博客",
+        href: "https://compelcode.com"
     }
 ]
