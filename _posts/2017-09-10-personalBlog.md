@@ -238,6 +238,23 @@ Markdown 是什么? Markdown是一种轻量级的 标记语言,很简单易用,�
 * ![25](http://ow2akcnvb.bkt.clouddn.com/25-insert.png)
 * [插件下载参考地址](https://chrome.google.com/webstore/detail/octotree/bkhaagjahfmjljalopjnoealnfndnagc)
 
+#### 关于百度统计
+> 2017-10-04 更新补充
+
+* 在 [百度统计](https://tongji.baidu.com/web/welcome/login) 注册账号,关于注册站长版还是客户版或者移动统计,可以 [参考这里](http://tongji.baidu.com/web/help/article?id=170&type=0) 
+* 然后根据 [参考资料](http://tongji.baidu.com/web/help/article?id=170&type=0) 的提示进行账号登录,添加站点,获取代码 的操作
+* 获取代码之后,我们只要其中的一部分(下图方框的那部分)
+![27](http://ow2akcnvb.bkt.clouddn.com/27.png)
+* 将获取的部分添加到博客所在文件夹中的 ```_includes/footer.html```
+![28](http://ow2akcnvb.bkt.clouddn.com/28.png)
+* **在博客所在文件夹下运行 ```jekyll s``` 命令**
+> 如果不运行,添加的 ```track_id``` 不能与 ```_site``` 关联起来,就算将 ```_site``` 放到了自己的云主机上,统计信息也不能被百度统计获取到
+* 然后将 ```_site``` 文件上传到自己的云主机上
+* 再打开百度统计,就能看到最近的访问信息了(可能会有一定时间的延迟,可以耐心等一下)
+![29](http://ow2akcnvb.bkt.clouddn.com/29.png)
+
+
+
 这篇文章挺长的,看到这里肯定辛苦了吧,谢谢您的阅读啦 ^ _ ^ 
 
 然后,然后有个厚脸皮的小小请求,您看看在我码这么多字的情况下,可不可以赏脸给个赞呢??哎呀,我知道你会同意的啦~~
