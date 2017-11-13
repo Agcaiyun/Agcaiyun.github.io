@@ -2,9 +2,9 @@
 layout:           post
 title:            穷游 穷是现状 游是向往
 subtitle:         原谅我一生不羁放纵爱自由
-date:             2017-10-02
+date:             2017-11-13
 anthor:           caiyun
-header-img:       img/17-10-02-header.jpg 
+header-img:       img/17-11-13-header.jpg 
 catalog:          true
 tags:             
     - 小生活 大脑洞
