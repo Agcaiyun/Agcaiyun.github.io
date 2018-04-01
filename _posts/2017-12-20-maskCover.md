@@ -1,7 +1,7 @@
 ---
 layout:           post
 title:            如何用下面的div遮蔽上面的div
-subtitle:         原谅我一生不羁放纵爱自由
+subtitle:         小tips
 date:             2017-12-20
 anthor:           caiyun
 header-img:       img/17-12-20-header.jpg 
