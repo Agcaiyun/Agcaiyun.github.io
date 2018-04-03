@@ -1,7 +1,7 @@
 ---
 layout:           post
 title:            如何用下面的div遮蔽上面的div
-subtitle:         小tips
+subtitle:         tips
 date:             2017-12-20
 anthor:           caiyun
 header-img:       img/17-12-20-header.jpg 
