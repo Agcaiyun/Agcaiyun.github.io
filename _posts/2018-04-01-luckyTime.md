@@ -30,6 +30,9 @@ tags:
 
 ![R-Y.jpg](https://upload-images.jianshu.io/upload_images/6970677-9d9a22dcf50e1479.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
+那天的月亮也挺美的呢~
+![moon.jpg](https://upload-images.jianshu.io/upload_images/6970677-729f0f713878c2a6.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
 见面后，我们简单的吃个了拉面，哈哈（够简单），朋友改签了有卧铺的车票，在剩下不多的时间里，我们买了点东西聊（xia）聊（hu）天（kan），就这样愉快的度过了几个小时的时间~~
 
 朋友提前结束面试是因为当天参加宣讲的人数不多，直接省略了大篇幅的balabala进入了笔试；朋友结束面试我正好在地铁上，随即去车站节省了不少宝贵的时间；如果当时我在家，如果当时朋友没有在群里说一声面试结束了，如果当时她舍友没有说漏嘴她要来的消息，如果。。。那恐怕事情也就不是这样的了吧，还好的还好，无意间，我们多了一段相处的美好记忆，或许 这就是冥冥之中吧
