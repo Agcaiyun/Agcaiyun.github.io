@@ -4,7 +4,7 @@ title:            穷游 穷是现状 游是向往
 subtitle:         原谅我一生不羁放纵爱自由
 date:             2017-11-13
 anthor:           caiyun
-header-img:       img/17-11-13-header.jpg 
+header-img:       img/qiongPlay-img/header.jpg
 catalog:          true
 tags:             
     - 小生活 大脑洞
@@ -24,38 +24,56 @@ tags:
 
 ### 来，南京上图
 南京同学 Q 所在学校的夜景
-[school]()
-[library]()
+
+![school](http://ow2akcnvb.bkt.clouddn.com/school.jpg)
+![library](http://ow2akcnvb.bkt.clouddn.com/library.jpg)
+
 美美哒的二月兰
-[flowers]()
+
+![flowers](http://ow2akcnvb.bkt.clouddn.com/flowers.jpg)
+
 主校区中爬满爬墙虎的建筑
-[plant]()
+
+![plant](http://ow2akcnvb.bkt.clouddn.com/plant.jpg)
+
 主校区中一条种满梧桐树的道路，走在这条路上，感觉很安静，仿佛远离世俗喧嚣
-[wutong]()
+
+![wutong](http://ow2akcnvb.bkt.clouddn.com/wutong.jpg)
+
 在南京，一说到书店，提到的必定有 先锋书店 这个代表南京文艺地标的书店，下面是位于五台山地下停车场的总店
-[bookstore]()
+
+![bookstore](http://ow2akcnvb.bkt.clouddn.com/bookstore.jpg)
+
 书店中有很多明信片，记录着来往小青年的心声与感慨，在这里简单放几张吧,
-[00]()
-[01]()
-[02]()
-[03]()
-[04]()
-[05]()
+
+![00](http://ow2akcnvb.bkt.clouddn.com/00.jpg)
+![01](http://ow2akcnvb.bkt.clouddn.com/01.jpg)
+![02](http://ow2akcnvb.bkt.clouddn.com/02.jpg)
+![03](http://ow2akcnvb.bkt.clouddn.com/03.jpg)
+![04](http://ow2akcnvb.bkt.clouddn.com/04.jpg)
+![05](http://ow2akcnvb.bkt.clouddn.com/05.jpg)
+
 *关于先锋书店网上有很多美美哒的照片，没看过瘾的可以自行百度哈*
+
 还去了一个故居，据说这在以前是军官们居住的地方，现在有些是这些前辈们的后代在居住，这里距离市中心很近很近，但是却很安静
-[old-house]()
+
+![old-house](http://ow2akcnvb.bkt.clouddn.com/old-house.jpg)
+
 发现一棵很有意思的树，呆  你逃不出我的五指山~~
-[figers-tree]()
+
+![figers-tree](http://ow2akcnvb.bkt.clouddn.com/figers-tree.jpg)
+
 在安静的街道发现一处孩童的乐园，如果闲来无事，我想我可能会呆呆的坐在这里看着他们尽情的玩耍，或许会就这样安安静静的呆上一天吧
-[children]()
+
+![children](http://ow2akcnvb.bkt.clouddn.com/children.jpg)
+
 然后呢。。。吃货少不了的当然是美食啦，在这里我们吃了烤猪蹄、串串香、煎饼 and so on  ...
-[eat]()
+
+![eat](http://ow2akcnvb.bkt.clouddn.com/eat.jpg)
+
 在狮子楼街边发现一处挂满灯笼的地方
-[lantern]()
 
-
-
-
+![lantern](http://ow2akcnvb.bkt.clouddn.com/lantern.jpg)
 
 在时光的洗礼下，不知不觉间，感觉自己弄丢了很多人。因为自己不是会怎么主动联系人的人，有时候想联系了，却会想会不会打扰，会不会聊不到一起而尴尬，想着想着也就不敢主动去联系了，记得有个朋友说我 好像只有在有事情的时候才会去联系人，是啊，因为有事情就有联系的理由了啊，其实就是自己考虑太多，想太多，哪有那么复杂嘛，现在呢 我在学着不想辣么多，有时候冲动也没什么不好，就像这次去南京找 Q 也是冲动之下的随心而行，结果也很美好啊，如果当时再三思而行，估计那三天我又在屋里发霉了呢 ^_^
 
