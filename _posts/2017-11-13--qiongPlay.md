@@ -50,12 +50,12 @@ tags:
 
 书店中有很多明信片，记录着来往小青年的心声与感慨，在这里简单放几张吧,
 
-![00](http://ow2akcnvb.bkt.clouddn.com/00.jpg)
-![01](http://ow2akcnvb.bkt.clouddn.com/01.jpg)
-![02](http://ow2akcnvb.bkt.clouddn.com/02.jpg)
-![03](http://ow2akcnvb.bkt.clouddn.com/03.jpg)
-![04](http://ow2akcnvb.bkt.clouddn.com/04.jpg)
-![05](http://ow2akcnvb.bkt.clouddn.com/05.jpg)
+![](http://ow2akcnvb.bkt.clouddn.com/00.jpg)
+![](http://ow2akcnvb.bkt.clouddn.com/01.jpg)
+![](http://ow2akcnvb.bkt.clouddn.com/02.jpg)
+![](http://ow2akcnvb.bkt.clouddn.com/03.jpg)
+![](http://ow2akcnvb.bkt.clouddn.com/04.jpg)
+![](http://ow2akcnvb.bkt.clouddn.com/05.jpg)
 
 *关于先锋书店网上有很多美美哒的照片，没看过瘾的可以自行百度哈*
 
@@ -90,7 +90,7 @@ tags:
 
 下面是廋西湖美景
 
-![n](http://ow2akcnvb.bkt.clouddn.com/n.jpg)
+![](http://ow2akcnvb.bkt.clouddn.com/n.jpg)
 ![湖中间的小亭子可不是让游客娱乐的小船，而是专门让湖中的天鹅休息的](http://ow2akcnvb.bkt.clouddn.com/boat.jpg)
 ![美美哒的天鹅](http://ow2akcnvb.bkt.clouddn.com/swan.jpg)
 ![很平静的感觉](http://ow2akcnvb.bkt.clouddn.com/a.jpg)
@@ -117,9 +117,9 @@ tags:
 
 从扬州回南京的时候有些晚了，在经历了赶车的经历，在回途中随手拍了几张夜景
 
-![ee](http://ow2akcnvb.bkt.clouddn.com/ee.jpg)
-![ff](http://ow2akcnvb.bkt.clouddn.com/ff.jpg)
-![gg](http://ow2akcnvb.bkt.clouddn.com/gg.jpg)
+![](http://ow2akcnvb.bkt.clouddn.com/ee.jpg)
+![](http://ow2akcnvb.bkt.clouddn.com/ff.jpg)
+![](http://ow2akcnvb.bkt.clouddn.com/gg.jpg)
 
 
 
