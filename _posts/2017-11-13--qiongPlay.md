@@ -23,6 +23,10 @@ tags:
 这次行程是 Q 全权安排的呢，哈哈哈，我这个甩手掌柜很是甩手呢 ^3^
 
 ### 来，南京上图
+下车后就跟同学一起去吃好吃的，东西有点多，都没吃完，挺好吃的
+
+![food](http://ow2akcnvb.bkt.clouddn.com/food.jpg)
+
 南京同学 Q 所在学校的夜景
 
 ![school](http://ow2akcnvb.bkt.clouddn.com/school.jpg)
@@ -80,3 +84,47 @@ tags:
 > 有什么想做的就去做吧，不要等到怎样怎样之后再去做什么什么，因为我们谁也说不了那时候的自己会是什么样的想法什么样的状态，毕竟 时光。。。不等人。。。
 
 ### 从南京下扬州
+在扬州汽车站下车后坐公交去了廋西湖
+
+![busStation](http://ow2akcnvb.bkt.clouddn.com/busStation.jpeg)
+
+下面是廋西湖美景
+
+![n](http://ow2akcnvb.bkt.clouddn.com/n.jpg)
+![湖中间的小亭子可不是让游客娱乐的小船，而是专门让湖中的天鹅休息的](http://ow2akcnvb.bkt.clouddn.com/boat.jpg)
+![美美哒的天鹅](http://ow2akcnvb.bkt.clouddn.com/swan.jpg)
+![很平静的感觉](http://ow2akcnvb.bkt.clouddn.com/a.jpg)
+![](http://ow2akcnvb.bkt.clouddn.com/b.jpg)
+![道路中的人们](http://ow2akcnvb.bkt.clouddn.com/c.jpg)
+![春天的气息](http://ow2akcnvb.bkt.clouddn.com/d.jpg)
+![很喜欢那个风铃](http://ow2akcnvb.bkt.clouddn.com/e.jpg)
+![春江水暖鸭先知](http://ow2akcnvb.bkt.clouddn.com/g.jpg)
+![](http://ow2akcnvb.bkt.clouddn.com/h.jpg)
+![](http://ow2akcnvb.bkt.clouddn.com/i.jpg)
+![好多银](http://ow2akcnvb.bkt.clouddn.com/j.jpg)
+![枫叶似火](http://ow2akcnvb.bkt.clouddn.com/k.jpg)
+![长长的走廊](http://ow2akcnvb.bkt.clouddn.com/l.jpg)
+![从景点外面眺望廋西湖](http://ow2akcnvb.bkt.clouddn.com/o.jpg)
+
+从瘦西湖逛一圈之后去了关（mei）东（shi）街
+
+![](http://ow2akcnvb.bkt.clouddn.com/aa.jpg)
+![好多人](http://ow2akcnvb.bkt.clouddn.com/dd.jpg)
+![遇到一个工艺品店](http://ow2akcnvb.bkt.clouddn.com/bb.jpg)
+![买了一个小黄鸭](http://ow2akcnvb.bkt.clouddn.com/cc.jpg)
+
+在关东街逛吃逛吃之后去一个拍照的地方拍了两套古装照（捂脸），还因为这件事情差点耽误了晚上回南京的车，有机会回在 [这篇文章](https://www.jianshu.com/p/9a47a8030908) 补充这段经历
+
+从扬州回南京的时候有些晚了，在经历了赶车的经历，在回途中随手拍了几张夜景
+
+![ee](http://ow2akcnvb.bkt.clouddn.com/ee.jpg)
+![ff](http://ow2akcnvb.bkt.clouddn.com/ff.jpg)
+![gg](http://ow2akcnvb.bkt.clouddn.com/gg.jpg)
+
+
+
+
+
+
+
+
