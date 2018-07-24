@@ -1,15 +1,3 @@
----
-layout:           post
-title:            深浅拷贝
-subtitle:         深浅拷贝详解  
-date:             2018-07-24 
-anthor:           caiyun
-header-img:       img/18-04-01-header.jpg 	 
-catalog:          true
-tags:
-    - JavaScript
----
-
 ## 内置类型
 JS 中有其中内置类型，分为基本类型和对象（*对象又叫做引用类型*），其中基本类型有六种，分别为：`null` `undefined` `boolean` `number` `string` `symbol`
 * string 在一些其他语言中是被当做对象使用的，属于引用类型，但在js里是基本类型
@@ -34,6 +22,7 @@ console.log(color2)           // ['red','green','black']
 
 此时，该拷贝的含义在内存中的表现为：
 ![shallowCopyGraph](http://ow2akcnvb.bkt.clouddn.com/shallowCopyGraph.png)
+
 对数组的操作中，`concat` `slice` 方法也是浅拷贝，所以在用的时候要注意对原数组的保护
 
 
@@ -43,6 +32,7 @@ console.log(color2)           // ['red','green','black']
 
 深拷贝在内存中的表现为：(Array2 为 Array1 深拷贝后的数组)
 ![deepCopyGraph](http://ow2akcnvb.bkt.clouddn.com/deepCopyGraph.png)
+
 这时候，Array2 虽然原本是由 Array1 拷贝来的，但是把 Array1 这个引用类型上的属性和实例一起在堆内存中拷贝了一份，Array2 的引用指向新的堆内存，这时候再改变 Array1 或 Array2 中的属性或实例的时候，就不会再互相影响了
 
 ### JSON对象的parse和stringify
