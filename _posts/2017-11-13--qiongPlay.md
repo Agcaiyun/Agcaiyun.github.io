@@ -25,59 +25,59 @@ tags:
 ### 来，南京上图
 下车后就跟同学一起去吃好吃的，东西有点多，都没吃完，挺好吃的
 
-![food](http://ow2akcnvb.bkt.clouddn.com/food.jpg)
+![food](http://agcaiyun.compelcode.com/food.jpg)
 
 南京同学 Q 所在学校的夜景
 
-![school](http://ow2akcnvb.bkt.clouddn.com/school.jpg)
-![library](http://ow2akcnvb.bkt.clouddn.com/library.jpg)
+![school](http://agcaiyun.compelcode.com/school.jpg)
+![library](http://agcaiyun.compelcode.com/library.jpg)
 
 美美哒的二月兰
 
-![flowers](http://ow2akcnvb.bkt.clouddn.com/flowers.jpg)
+![flowers](http://agcaiyun.compelcode.com/flowers.jpg)
 
 主校区中爬满爬墙虎的建筑
 
-![plant](http://ow2akcnvb.bkt.clouddn.com/plant.jpg)
+![plant](http://agcaiyun.compelcode.com/plant.jpg)
 
 主校区中一条种满梧桐树的道路，走在这条路上，感觉很安静，仿佛远离世俗喧嚣
 
-![wutong](http://ow2akcnvb.bkt.clouddn.com/wutong.jpg)
+![wutong](http://agcaiyun.compelcode.com/wutong.jpg)
 
 在南京，一说到书店，提到的必定有 先锋书店 这个代表南京文艺地标的书店，下面是位于五台山地下停车场的总店
 
-![bookstore](http://ow2akcnvb.bkt.clouddn.com/bookstore.jpg)
+![bookstore](http://agcaiyun.compelcode.com/bookstore.jpg)
 
 书店中有很多明信片，记录着来往小青年的心声与感慨，在这里简单放几张吧,
 
-![](http://ow2akcnvb.bkt.clouddn.com/00.jpg)
-![](http://ow2akcnvb.bkt.clouddn.com/01.jpg)
-![](http://ow2akcnvb.bkt.clouddn.com/02.jpg)
-![](http://ow2akcnvb.bkt.clouddn.com/03.jpg)
-![](http://ow2akcnvb.bkt.clouddn.com/04.jpg)
-![](http://ow2akcnvb.bkt.clouddn.com/05.jpg)
+![](http://agcaiyun.compelcode.com/00.jpg)
+![](http://agcaiyun.compelcode.com/01.jpg)
+![](http://agcaiyun.compelcode.com/02.jpg)
+![](http://agcaiyun.compelcode.com/03.jpg)
+![](http://agcaiyun.compelcode.com/04.jpg)
+![](http://agcaiyun.compelcode.com/05.jpg)
 
 *关于先锋书店网上有很多美美哒的照片，没看过瘾的可以自行百度哈*
 
 还去了一个故居，据说这在以前是军官们居住的地方，现在有些是这些前辈们的后代在居住，这里距离市中心很近很近，但是却很安静
 
-![old-house](http://ow2akcnvb.bkt.clouddn.com/old-house.jpg)
+![old-house](http://agcaiyun.compelcode.com/old-house.jpg)
 
 发现一棵很有意思的树，呆  你逃不出我的五指山~~
 
-![figers-tree](http://ow2akcnvb.bkt.clouddn.com/figers-tree.jpg)
+![figers-tree](http://agcaiyun.compelcode.com/figers-tree.jpg)
 
 在安静的街道发现一处孩童的乐园，如果闲来无事，我想我可能会呆呆的坐在这里看着他们尽情的玩耍，或许会就这样安安静静的呆上一天吧
 
-![children](http://ow2akcnvb.bkt.clouddn.com/children.jpg)
+![children](http://agcaiyun.compelcode.com/children.jpg)
 
 然后呢。。。吃货少不了的当然是美食啦，在这里我们吃了烤猪蹄、串串香、煎饼 and so on  ...
 
-![eat](http://ow2akcnvb.bkt.clouddn.com/eat.jpg)
+![eat](http://agcaiyun.compelcode.com/eat.jpg)
 
 在狮子楼街边发现一处挂满灯笼的地方
 
-![lantern](http://ow2akcnvb.bkt.clouddn.com/lantern.jpg)
+![lantern](http://agcaiyun.compelcode.com/lantern.jpg)
 
 在时光的洗礼下，不知不觉间，感觉自己弄丢了很多人。因为自己不是会怎么主动联系人的人，有时候想联系了，却会想会不会打扰，会不会聊不到一起而尴尬，想着想着也就不敢主动去联系了，记得有个朋友说我 好像只有在有事情的时候才会去联系人，是啊，因为有事情就有联系的理由了啊，其实就是自己考虑太多，想太多，哪有那么复杂嘛，现在呢 我在学着不想辣么多，有时候冲动也没什么不好，就像这次去南京找 Q 也是冲动之下的随心而行，结果也很美好啊，如果当时再三思而行，估计那三天我又在屋里发霉了呢 ^_^
 
@@ -86,40 +86,40 @@ tags:
 ### 从南京下扬州
 在扬州汽车站下车后坐公交去了廋西湖
 
-![busStation](http://ow2akcnvb.bkt.clouddn.com/busStation.jpeg)
+![busStation](http://agcaiyun.compelcode.com/busStation.jpeg)
 
 下面是廋西湖美景
 
-![](http://ow2akcnvb.bkt.clouddn.com/n.jpg)
-![湖中间的小亭子可不是让游客娱乐的小船，而是专门让湖中的天鹅休息的](http://ow2akcnvb.bkt.clouddn.com/boat.jpg)
-![美美哒的天鹅](http://ow2akcnvb.bkt.clouddn.com/swan.jpg)
-![很平静的感觉](http://ow2akcnvb.bkt.clouddn.com/a.jpg)
-![](http://ow2akcnvb.bkt.clouddn.com/b.jpg)
-![道路中的人们](http://ow2akcnvb.bkt.clouddn.com/c.jpg)
-![春天的气息](http://ow2akcnvb.bkt.clouddn.com/d.jpg)
-![很喜欢那个风铃](http://ow2akcnvb.bkt.clouddn.com/e.jpg)
-![春江水暖鸭先知](http://ow2akcnvb.bkt.clouddn.com/g.jpg)
-![](http://ow2akcnvb.bkt.clouddn.com/h.jpg)
-![](http://ow2akcnvb.bkt.clouddn.com/i.jpg)
-![好多银](http://ow2akcnvb.bkt.clouddn.com/j.jpg)
-![枫叶似火](http://ow2akcnvb.bkt.clouddn.com/k.jpg)
-![长长的走廊](http://ow2akcnvb.bkt.clouddn.com/l.jpg)
-![从景点外面眺望廋西湖](http://ow2akcnvb.bkt.clouddn.com/o.jpg)
+![](http://agcaiyun.compelcode.com/n.jpg)
+![湖中间的小亭子可不是让游客娱乐的小船，而是专门让湖中的天鹅休息的](http://agcaiyun.compelcode.com/boat.jpg)
+![美美哒的天鹅](http://agcaiyun.compelcode.com/swan.jpg)
+![很平静的感觉](http://agcaiyun.compelcode.com/a.jpg)
+![](http://agcaiyun.compelcode.com/b.jpg)
+![道路中的人们](http://agcaiyun.compelcode.com/c.jpg)
+![春天的气息](http://agcaiyun.compelcode.com/d.jpg)
+![很喜欢那个风铃](http://agcaiyun.compelcode.com/e.jpg)
+![春江水暖鸭先知](http://agcaiyun.compelcode.com/g.jpg)
+![](http://agcaiyun.compelcode.com/h.jpg)
+![](http://agcaiyun.compelcode.com/i.jpg)
+![好多银](http://agcaiyun.compelcode.com/j.jpg)
+![枫叶似火](http://agcaiyun.compelcode.com/k.jpg)
+![长长的走廊](http://agcaiyun.compelcode.com/l.jpg)
+![从景点外面眺望廋西湖](http://agcaiyun.compelcode.com/o.jpg)
 
 从瘦西湖逛一圈之后去了关（mei）东（shi）街
 
-![](http://ow2akcnvb.bkt.clouddn.com/aa.jpg)
-![好多人](http://ow2akcnvb.bkt.clouddn.com/dd.jpg)
-![遇到一个工艺品店](http://ow2akcnvb.bkt.clouddn.com/bb.jpg)
-![买了一个小黄鸭](http://ow2akcnvb.bkt.clouddn.com/cc.jpg)
+![](http://agcaiyun.compelcode.com/aa.jpg)
+![好多人](http://agcaiyun.compelcode.com/dd.jpg)
+![遇到一个工艺品店](http://agcaiyun.compelcode.com/bb.jpg)
+![买了一个小黄鸭](http://agcaiyun.compelcode.com/cc.jpg)
 
 在关东街逛吃逛吃之后去一个拍照的地方拍了两套古装照（捂脸），还因为这件事情差点耽误了晚上回南京的车，有机会回在 [这篇文章](https://www.jianshu.com/p/9a47a8030908) 补充这段经历
 
 从扬州回南京的时候有些晚了，在经历了赶车的经历，在回途中随手拍了几张夜景
 
-![](http://ow2akcnvb.bkt.clouddn.com/ee.jpg)
-![](http://ow2akcnvb.bkt.clouddn.com/ff.jpg)
-![](http://ow2akcnvb.bkt.clouddn.com/gg.jpg)
+![](http://agcaiyun.compelcode.com/ee.jpg)
+![](http://agcaiyun.compelcode.com/ff.jpg)
+![](http://agcaiyun.compelcode.com/gg.jpg)
 
 
 

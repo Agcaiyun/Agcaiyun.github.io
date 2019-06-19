@@ -21,7 +21,7 @@ console.log(color2)           // ['red','green','black']
 因为我们只是拷贝了引用类型的地址，而不是真正的该地址对应的基本类型的值，所以，不管是操作 color1 还是 color2 ，本质上都是**操作同一个数组对象**
 
 此时，该拷贝的含义在内存中的表现为：
-![shallowCopyGraph](http://ow2akcnvb.bkt.clouddn.com/shallowCopyGraph.png)
+![shallowCopyGraph](http://agcaiyun.compelcode.com/shallowCopyGraph.png)
 
 对数组的操作中，`concat` `slice` 方法也是浅拷贝，所以在用的时候要注意对原数组的保护
 
@@ -31,7 +31,7 @@ console.log(color2)           // ['red','green','black']
 
 
 深拷贝在内存中的表现为：(Array2 为 Array1 深拷贝后的数组)
-![deepCopyGraph](http://ow2akcnvb.bkt.clouddn.com/deepCopyGraph.png)
+![deepCopyGraph](http://agcaiyun.compelcode.com/deepCopyGraph.png)
 
 这时候，Array2 虽然原本是由 Array1 拷贝来的，但是把 Array1 这个引用类型上的属性和实例一起在堆内存中拷贝了一份，Array2 的引用指向新的堆内存，这时候再改变 Array1 或 Array2 中的属性或实例的时候，就不会再互相影响了
 
