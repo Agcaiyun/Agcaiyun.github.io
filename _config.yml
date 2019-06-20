@@ -1,10 +1,10 @@
 # Site settings
 title: Caiyun Blog
-SEOTitle: 彩云的博客 | Caiyun Blog
+SEOTitle: 彩云的博客 | Caiyun Blog | CY Blog
 header-img: img/index-header.jpg
 email:  Agcaiyun@163.com
 description: "Whatever happens tomorrow,we've had today!"
-keyword: "Personal Blog, Caiyun Blog, 彩云的博客, Agcaiyun, 高彩云, Web前端 , 前端开发"
+keyword: "Personal Blog, Caiyun Blog, CY, CY Blog, Caiyun, 彩云的博客, Agcaiyun, Web前端, 前端开发"
 url: "http://agcaiyun.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/Agcaiyun/Agcaiyun.github.io" # you code repository
