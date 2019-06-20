@@ -1,3 +1,15 @@
+---
+layout:           post
+title:            JS 实现二进制与十进制的相互转换
+subtitle:         JavaScript 实现二进制与十进制的相互转换 
+date:             2018-12-13
+anthor:           caiyun
+header-img:       img/transform-img/transform-header.jpg	 
+catalog:          true
+tags:
+    - JavaScript
+---
+
 # JS实现十进制与二进制的互相转换
 
 > 用 `javascript` 实现十进制与二进制之间的转换，在网上能找到不少例子，但很多都少考虑了**二进制小数**转换为十进制的情况，所以在一些摸索和实现之后，想把这种情况的实现分享给你
