@@ -105,6 +105,7 @@ console.log(binaryFloatNumArr)  // ["1111011", "111"]
     * 将小数部分的**每位**取出
     * 将取出的**每位**分别转换为十进制数
     * 将转换之后的各个十进制数相加，得到由整个二进制小数部分转换成的十进制数
+    
 ```js
 const binaryFloatPartStr = binaryFloatNumArr[1]  //  "111"
 const binaryFloatPartArr = binaryFloatPartStr.split("")  //  ["1", "1", "1"]
