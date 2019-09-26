@@ -9,231 +9,230 @@ catalog:          true
 tags:
     - blog
 ---
-> 本文首发于 [Caiyun Blog](http://agcaiyun.cn/ ),作者 [@Caiyun](https://github.com/Agcaiyun),  如果您喜欢想转载,这是我的荣幸,您只需要保留原文链接就好啦,谢谢哦 ^_^
+> 本文首发于 [Caiyun Blog](http://agcaiyun.github.io/ )，作者 [@Caiyun](https://github.com/Agcaiyun)，  如果您喜欢想转载，这是我的荣幸，您只需要保留原文链接就好啦，谢谢哦~
 
-> 该文章步骤详细,更适合 大白(●—●) 型的朋友.如果您觉得 ```low``` ,希望您能吐槽,给我成长和改进的机会,如果您发现其中有错误或者不当的地方,也欢迎您随时联系,我会及时更正,彩云在这里先谢谢您啦 ^_^
+> 该文章步骤详细，更适合 大白(●—●) 型的朋友.如果您觉得 `low` ，希望您能吐槽，给我成长和改进的机会，如果您发现其中有错误或者不当的地方，也欢迎您随时联系，我会及时更正，在此谢过~
 
-*今天（2019-01-25）在 mac 上面重新搭建了下博客，炒鸡简单，一个报错信息都没看见 jekyll 本地就已经跑起来了，想当初在 windows 上面折腾了辣么久。。。。。。*
+*今天（2019-01-25）在 mac 上面重新搭建了下博客，炒鸡简单，一个报错信息都没看见 jekyll 本地就已经跑起来了，想当初在 windows 上面折腾了辣么久。。心疼疼*
 
 ## 前言
-在前人的帮助下,仍然踩了不少坑,终于把这个 个人博客 搭建起来啦 ^_^
+在前人的帮助下，仍然踩了不少坑，终于把这个*个人博客*搭建起来啦~
 
-之前想在某网站上注册一个博客,来记录自己的点滴成长,但是申请一直没有通过,然后好多次遇到问题``` Google``` 的时候,就会看到其他人将 或学习心得 或踩过的坑 或日常点滴 记录在册,就更眼馋了,但是却觉得博客高大上的样子,一直望而却步,最近偶然的某个瞬间,一时心血来潮(竟然忘记了之前对高大上的恐惧),就搭建了现在这个博客,其中,非常感谢 [Mishy Jan](https://www.compelcode.com/home) 的耐心帮助,该文章中的前半部分引用 [@BY Qiu](http://www.jianshu.com/p/e68fba58f75c) 的文章(因为文章真的很详细,没必要再重新整理了,非常感谢!) 
+之前想在某网站上注册一个博客，来记录自己的点滴成长，但是申请一直没有通过，然后好多次遇到问题`Google`的时候，就会看到其他人将或学习心得，或踩过的坑，或日常点滴记录在册，就更眼馋了，但是却觉得博客高大上的样子，一直望而却步。最近偶然的某个瞬间，一时心血来潮(竟然忘记了之前对高大上的恐惧)，就搭建了现在这个博客，其中，非常感谢 [Mishy Jan](https://www.compelcode.com/home) 的耐心帮助，该文章中的前半部分引用 [@BY Qiu](http://www.jianshu.com/p/e68fba58f75c) 的文章（因为文章真的很详细，没必要再重新整理了，非常感谢！） 
 
-本文章偏向于不懂技术的小白(当然懂技术更好啦),好啦,废话不多说,我这样的大白都能搭起来博客了,你还等什么呢??
+本文章偏向于不懂技术的小白(当然懂技术更好啦)，好啦，废话不多说，我这样的大白都能搭起来博客了，你还等什么呢？
 
 ## 用 GitHub Pages 快速搭建个人博客
 
-我认为这部分内容完全可以参考  [@BY Qiu](http://www.jianshu.com/p/e68fba58f75c)(该文章作者系统为 ```Mac```系统) 前半部分(原文标题 在本地调试博客 之前)的内容,图文并茂,简单易懂,这里就不赘述了.但是要做一些补充说明,建议您可以先看看下面的话,然后再参考链接中的文章,避免我踩过的坑  (本大白的测试系统为 : ```win7 x64```)
+我认为这部分内容完全可以参考[@BY Qiu](http://www.jianshu.com/p/e68fba58f75c)（该文章作者系统为 `Mac`系统） 前半部分（原文标题 在本地调试博客 之前）的内容，图文并茂，简单易懂，这里就不赘述了.但是要做一些补充说明，建议您可以先看看下面的话，然后再参考链接中的文章，避免我踩过的坑（本大白的测试系统为 : `win7 x64`）
 
-在我搭建博客的后期(```jekyll serve```) 的时候(别着急,这部分是我分享的重点,后面会详细讲解的哈),```BY Qiu``` ```repo``` 中提供的模板配置在我这里并不是完全好用的,您可以直接在原文内容中 ```fork``` ```BY Qiu``` 的 ```repo``` ,后面会分享修改过程,当然,您也可以直接 ```fork``` 我的 [repo](https://github.com/Agcaiyun/Agcaiyun.github.io/)  ,省去修改的麻烦,剩下的文章前半部分的分享我测试的时候是没什么问题的,然后后期 ```jekyll ```的相关操作就可以看下面的分享啦(```@BY Qiu``` 这部分没有很详细,结果我就开始踩坑了,不过还好,最后爬出来了,希望我的分享能帮你少踩些坑~~)
+在我搭建博客后期（`jekyll serve`） 的时候（别着急，这部分是我分享的重点，后面会详细讲解的哈），`BY Qiu` `repo` 中提供的模板配置在我这里并不是完全好用的，您可以直接 `fork` 我的 [repo](https://github.com/Agcaiyun/Agcaiyun.github.io/)，省去再次修改的麻烦，您也可以直接在原文内容中 `fork` `BY Qiu` 的 `repo` ，后面会分享修改过程，当然，剩下的文章前半部分的分享我测试的时候是没什么问题的，然后后期 `jekyll `的相关操作就可以看下面的分享啦（`@BY Qiu` 这部分没有很详细，结果我就开始踩坑了（*现在看来，应该是 mac 并没有遇到类似问题*），不过还好，最后爬出来了，希望我的分享能帮你少踩些坑~~）
 
 ## jekyll 的安装过程如下
-> 考虑到自己对满屏英语的恐惧和遇到问题不知所措的不安,这部分会记录的很详细,还希望不要觉得啰嗦,如果您有基础有技术,大概扫一眼应该就可以了
+> 考虑到自己对满屏英语的恐惧和遇到问题不知所措的不安，这部分会记录的很详细，还希望不要觉得啰嗦，如果您有基础有技术，大概扫一眼应该就可以了
 
-大部分内容可以在 [jekyll 官网](http://jekyllcn.com/)  找到解释和解决方案(大白我以后也要尽量习惯看文档了 * _ *)
+大部分内容可以在[jekyll 官网](http://jekyllcn.com/)找到解释和解决方案（大白我以后也要尽量习惯看文档了）
 
-打开 ```jekyll``` 官网中有关 [Windows环境下](http://jekyllcn.com/docs/windows/#installation)
-安装的部分 ,
-找到
+打开`jekyll`官网中有关[Windows环境下](http://jekyllcn.com/docs/windows/#installation)
+安装的部分，找到
 ![01](http://agcaiyun.compelcode.com/01.png)
-的部分,打开 [jekyll 运行于 Windows ](http://jekyllcn.com/docs/windows/#installation)上 ,然后 点击那个大按钮(```Get started```)
+的部分，打开[jekyll 运行于 Windows](http://jekyllcn.com/docs/windows/#installation)上然后点击那个大按钮(`Get started`)
 ![02](http://agcaiyun.compelcode.com/02.png)
-在[新打开的页面](http://jekyll-windows.juthilo.com/) 中 (下面的步骤大都是参考该页面左侧的指导进行的),点击``` Get Ruby for Windows``` 进行``` Ruby``` 的安装
+在[新打开的页面](http://jekyll-windows.juthilo.com/)中(下面的步骤大都是参考该页面左侧的指导进行的)，点击` Get Ruby for Windows` 进行`Ruby`的安装
 
 ### Ruby 的安装
 
-> 不是要安装 ```jekyll``` 吗?你骗我,为什么还要装 ```Ruby``` ,白捉急嘛, 客官您先看看[官网解释](http://jekyllcn.com/docs/installation/)嘛 
+> 不是要安装 `jekyll` 吗?你骗我，为什么还要装 `Ruby` ，白捉急嘛， 客官您先看看[官网解释](http://jekyllcn.com/docs/installation/)嘛 
 
 然后选择 
 ![03](http://agcaiyun.compelcode.com/03.png)
-选择合适自己系统的类型进行安装,**注意**,这里建议 ```Ruby 2.1``` ~ ```Ruby 2.2``` 的版本,因为
+选择合适自己系统的类型进行安装，**注意**，这里建议 `Ruby 2.1`~ `Ruby 2.2` 的版本，因为
 ![01](http://agcaiyun.compelcode.com/01.png)
-和在后面 ```jekyll``` 安装过程中遇到的坑(大白我卸了又重倒腾了一遍 * _ *)
+和在后面 `jekyll` 安装过程中遇到的坑(大白我卸了又重倒腾了一遍 * _ *)
 ![04](http://agcaiyun.compelcode.com/04.png)
-我这里选择的是 ```Ruby 2.1.9(x64)``` (在下载处的 倒数第三个) , 然后就跟着 [官方文档](http://jekyll-windows.juthilo.com/1-ruby-and-devkit/) 的提示安装就可以了,
-再然后就是点击下面的 ```Get the Ruby DevKit``` 的大按钮,进行 ```Ruby Devkit``` 的安装
+我这里选择的是 `Ruby 2.1.9(x64)` (在下载处的 倒数第三个) ， 然后就跟着 [官方文档](http://jekyll-windows.juthilo.com/1-ruby-and-devkit/) 的提示安装就可以了，
+再然后就是点击下面的 `Get the Ruby DevKit` 的大按钮，进行 `Ruby Devkit` 的安装
 
 ### Ruby Devkit 的安装
 
 ![05](http://agcaiyun.compelcode.com/05.png)
-根据自己的系统,选择合适的版本就可以啦,我这里安装的是 ```x64``` 的,下载好之后根据 文档里面的提示安装到相应位置就可以了,再然后根据提示运行下面命令就可以啦
+根据自己的系统，选择合适的版本就可以啦，我这里安装的是 `x64` 的，下载好之后根据 文档里面的提示安装到相应位置就可以了，再然后根据提示运行下面命令就可以啦
 
-``` $ cd C:\RubyDevKit ```
+` $ cd C:\RubyDevKit `
 
-``` $ ruby dk.rb init ```
+` $ ruby dk.rb init `
 
-``` $ ruby dk.rb install ```
+` $ ruby dk.rb install `
 
-如果在执行命令的过程中没有出现错误的话,那就继续安装  ```Jekyll Gem```  吧(就是点击右下角 ```install Jekyll Gem``` 的按钮 )
+如果在执行命令的过程中没有出现错误的话，那就继续安装  `Jekyll Gem`  吧(就是点击右下角 `install Jekyll Gem` 的按钮 )
 
 ### Ruby 安装可能的报错
-> 上面三行命令,除了第一行,剩下两行由于各种原因可能会报错,我这里就整理一下自己遇到过的小问题吧(最后能解决的都不是问题,喝碗鸡汤~开始 除错)
+> 上面三行命令，除了第一行，剩下两行由于各种原因可能会报错，我这里就整理一下自己遇到过的小问题吧(最后能解决的都不是问题，喝碗鸡汤~开始 除错)
 
-* ``` $ ruby dk.rb init ```可能遇到的报错
-    * ```generated config.yml file doesn't list Ruby path```
-        > 生成的 ```config.yml``` 文件找不到 ```Ruby ``` 的路径
+* ` $ ruby dk.rb init `可能遇到的报错
+    * `generated config.yml file doesn't list Ruby path`
+        > 生成的 `config.yml` 文件找不到 `Ruby ` 的路径
     * **解决方案**
-        找到安装的 ```RubyDevKit```文件夹,找到其中的 ```config.yml``` 文件,用编辑器打开,如图
+        找到安装的 `RubyDevKit`文件夹，找到其中的 `config.yml` 文件，用编辑器打开，如图
 ![09](http://agcaiyun.compelcode.com/09.png)
 添加箭头所指的部分
-然后打开你安装```RubyDevKit``` 的文件夹,找到其中一个名为 ```dk.rb``` 的文件,然后用编辑器打开(或者记事本也行),在 ```  REG_KEYS``` 里面添加一句 
-```
+然后打开你安装`RubyDevKit` 的文件夹，找到其中一个名为 `dk.rb` 的文件，然后用编辑器打开(或者记事本也行)，在 `  REG_KEYS` 里面添加一句 
+`
  'Software\Wow6432Node\RubyInstaller\MRI'
-```
+`
 如图:
 ![10](http://agcaiyun.compelcode.com/10.png)
 
-如果不可以,请[参考这里](https://stackoverflow.com/questions/16523607/cant-get-ruby-devkit-configuration-file-autogenerated-properly) 以寻找适当的方法
+如果不可以，请[参考这里](https://stackoverflow.com/questions/16523607/cant-get-ruby-devkit-configuration-file-autogenerated-properly) 以寻找适当的方法
 
 
 
 ### 主角 Jekyll
 
-好啦,现在终于要主角 ```jekyll``` 出场啦, 运行命令 
-```
+好啦，现在终于要主角 `jekyll` 出场啦， 运行命令 
+`
 $ gem install jekyll
-``` 
-进行 ```jekyll``` 的安装,再进行安装 ```jekyll``` 的时候,我测试的时候默认安装的版本是  ```3.5.2``` ,所以就不用管下面的兼容性问题啦
+` 
+进行 `jekyll` 的安装，再进行安装 `jekyll` 的时候，我测试的时候默认安装的版本是  `3.5.2` ，所以就不用管下面的兼容性问题啦
 ![06](http://agcaiyun.compelcode.com/06.png)
-如果 ```jekyll``` 的安装没有任何问题的话,那就基本成功啦 ^ _ ^ ,然后再运行命令 
-```
+如果 `jekyll` 的安装没有任何问题的话，那就基本成功啦 ^ _ ^ ，然后再运行命令 
+`
 $ gem install jekyll bundler
-```
+`
 
- 进行 ```jekyll bundler``` 的安装
+ 进行 `jekyll bundler` 的安装
 
- 安装成功后,进入**你博客所在的文件里面**,比如(```personalBlog``` 为我的博客所在的文件夹): 
+ 安装成功后，进入**你博客所在的文件里面**，比如(`personalBlog` 为我的博客所在的文件夹): 
 ![07](http://agcaiyun.compelcode.com/07.png)
-然后创建本地服务器,执行命令
-```
+然后创建本地服务器，执行命令
+`
 jekyll s
-``` 
+` 
    或者 
-```
+`
 jekyll serve
-```
+`
  两个命令功能是一样的
-如果这步没有问题的话,会出现
+如果这步没有问题的话，会出现
 ![08](http://agcaiyun.compelcode.com/08.png)
-意味着你可以到 [http://127.0.0.1:4000/](http://127.0.0.1:4000/) 或者 ```localhost:4000/``` 的地址对本地进行博客预览啦,这样就不用``` push ```到 ```GitHub``` 之后再看了,对日后博客的管理效率可是提高了不少哦~(撒花撒花 ^_^ )
+意味着你可以到 [http://127.0.0.1:4000/](http://127.0.0.1:4000/) 或者 `localhost:4000/` 的地址对本地进行博客预览啦，这样就不用` push `到 `GitHub` 之后再看了，对日后博客的管理效率可是提高了不少哦~(撒花撒花~ )
 
-使用 ``` ctrl + c ``` 可以停止``` serve``` 的运行
+使用 ` ctrl + c ` 可以停止` serve` 的运行
 
-这样的话,用 ```jekyll``` 进行本地博客的同步预览就已经完成了(当然,在编辑器中更改博客内容后还是需要保存和刷新浏览器的),开森开森 ^_^
+这样的话，用 `jekyll` 进行本地博客的同步预览就已经完成了(当然，在编辑器中更改博客内容后还是需要保存和刷新浏览器的)，开森开森~
 
-正确的都一样,报错的各有各的报错,执行上面命令有报错的,来吧,咱们一起来看看这里有没有可以参考的解决方案
+正确的都一样，报错的各有各的报错，执行上面命令有报错的，来吧，咱们一起来看看这里有没有可以参考的解决方案
 
 ### gem install jekyll 可能的报错
 * 
-```
+`
 C:\RubyDevKit>gem install jekyll
-ERROR: Could not find a valid gem 'jekyll' (>= 0), here is why:
+ERROR: Could not find a valid gem 'jekyll' (>= 0)， here is why:
 Unable to download data from https://rubygems.org/ - SSL_connect returned=1 errno=0 state=SSLv3 read server certificate B: certificate verify failed (https://api.rubygems.org/latest_specs.4.8.gz)
-```
+`
 
 * 我实验成功的方法是:
 依次执行如下命令:
-```
+`
 $ gem sources --remove https://rubygems.org/
 $ gem sources -a http://api.rubygems.org
 $ gem install jekyll
-```
+`
 可以参考 [这里](https://gist.github.com/luislavena/f064211759ee0f806c88) 或者 [这里](https://github.com/juthilo/run-jekyll-on-windows/issues/34) 以便寻找更合适的方法
 
 ### jekyll serve 可能的报错
 * 可能报错如下
 ![13](http://agcaiyun.compelcode.com/13.png) 
 * **解决方案**如下:
-    * 打开你的博客所在的文件夹,找到其中的配置文件 ```_config.yml``` ,然后找到一句 ```gems: [jekyll-paginate]``` ,将``` gems``` 改为 ```plugins``` ,如图所示(不要像我一样,傻傻的把 ```gems``` 换成了 ```plugins``` 还不知道错在哪里 捂脸捂脸)
+    * 打开你的博客所在的文件夹，找到其中的配置文件 `_config.yml` ，然后找到一句 `gems: [jekyll-paginate]` ，将` gems` 改为 `plugins` ，如图所示(不要像我一样，傻傻的把 `gems` 换成了 `plugins` 还不知道错在哪里 捂脸捂脸)
     ![14](http://agcaiyun.compelcode.com/14.png)
     然后执行命令
-    ```
+    `
     gem install jekyll-paginate
-    ```
+    `
 
     然后应该就可以啦
 
-* 其实上面的方案有瑕疵,就是在运行 ```jekyll serve```  的时候虽然能正常进行同步本地预览,但是会出现警告,就像下面这样
+* 其实上面的方案有瑕疵，就是在运行 `jekyll serve`  的时候虽然能正常进行同步本地预览，但是会出现警告，就像下面这样
 ![15](http://agcaiyun.compelcode.com/15.png)
 一大堆哦(一脸嫌弃)
-* **解决方案** : 在 ```_layouts```下的```post.html```与```page.html```中
-    * 首先 将两个文件中的 ```&&``` 替换为 ```and``` ;
-    * 然后 将 ``` { { site.featured-condition-size } } ```替换为```site.featured-condition-size```(也就是删除 \{\{\}\} )
+* **解决方案** : 在 `_layouts`下的`post.html`与`page.html`中
+    * 首先 将两个文件中的 `&&` 替换为 `and` ;
+    * 然后 将 ` { { site.featured-condition-size } } `替换为`site.featured-condition-size`(也就是删除 \{\{\}\} )
 
 > 这里需要感谢 [Anc](https://github.com/Ancientwood) 在本博客留言中提供的解决方案呢~
 
 ### _post 文件夹下文件名不能兼容中文的问题
 * 可以参考这里 [原文链接](http://blog.leiyinchun.com/2016-05/jekyll_local_chines_filename.html)
 
-修改安装目录```\Ruby21-x64\lib\ruby\2.1.0\webrick\httpservlet```下的```filehandler.rb```文件，建议先备份
+修改安装目录`\Ruby21-x64\lib\ruby\2.1.0\webrick\httpservlet`下的`filehandler.rb`文件，建议先备份
 
-找到下列两处，添加一句（ ```+``` 的一行为添加部分）
-```
+找到下列两处，添加一句（ `+` 的一行为添加部分）
+`
 path = req.path_info.dup.force_encoding(Encoding.find("filesystem"))
 + path.force_encoding("UTF-8") # 加入编码
 if trailing_pathsep?(req.path_info)
-```
+`
 
-```
+`
 break if base == "/"
 + base.force_encoding("UTF-8") # 加入编码
 break unless File.directory?(File.expand_path(res.filename + base))
-``` 
-然后重启服务器即可```jekyll clean``` &&``` jekyll s```
+` 
+然后重启服务器即可`jekyll clean` &&` jekyll s`
 
-**注意** : ```+``` 要去掉的,还有就是 要执行 ```jekyll clean``` &&``` jekyll s``` 之后再去看本地效果(千万不要像我一样,猴急猴急的,```+```没去掉 命令不执行 的就去看本地效果 捂脸捂脸 * _ * )
+**注意** : `+` 要去掉的，还有就是 要执行 `jekyll clean` &&` jekyll s` 之后再去看本地效果(千万不要像我一样，猴急猴急的，`+`没去掉 命令不执行 的就去看本地效果 捂脸捂脸 * _ * )
 效果如图所示:
-> 可以大概参考一下代码行数,或者用编辑器的搜索命令也行,缩小查找范围
+> 可以大概参考一下代码行数，或者用编辑器的搜索命令也行，缩小查找范围
 ![11](http://agcaiyun.compelcode.com/11.png) 
 ![12](http://agcaiyun.compelcode.com/12.png)
 
-好啦,关于 ```GitHub pages + jekyll``` 的搭建个人博客 基本就算是完成了,剩下的就是把你文件里面有关我的内容全部删掉换成你自己的,变成属于你的小天地,好开森有木有呀~~
+好啦，关于 `GitHub pages + jekyll` 的搭建个人博客 基本就算是完成了，剩下的就是把你文件里面有关我的内容全部删掉换成你自己的，变成属于你的小天地，好开森有木有呀~~
 
-快去吧,皮卡丘~~~
+快去吧，皮卡丘~~~
 
 ## 补充
 ####  Markdown 
-Markdown 是什么? Markdown是一种轻量级的 标记语言,很简单易用,相信你用了之后会爱不释手的,详情[请看这里](https://sspai.com/post/25137)
+Markdown 是什么? Markdown是一种轻量级的 标记语言，很简单易用，相信你用了之后会爱不释手的，详情[请看这里](https://sspai.com/post/25137)
 
 #### Disqus 评论系统
-* 关于 Disqus username 是什么的问题,请参考 [@ancientwood](https://www.zybuluo.com/ancientwood/note/891245)
+* 关于 Disqus username 是什么的问题，请参考 [@ancientwood](https://www.zybuluo.com/ancientwood/note/891245)
 
 
 #### 图床
-在后期写自己博客内容的时候少不了要用到自己的图片的,比如本文中分享的这些个截图 之类的,但是,自己的截图在 ```Markdown``` 中是无法直接插入的,那咋办??白捉急嘛,客官您请听我说
+在后期写自己博客内容的时候少不了要用到自己的图片的，比如本文中分享的这些个截图 之类的，但是，自己的截图在 `Markdown` 中是无法直接插入的，那咋办??白捉急嘛，客官您请听我说
 
-首先说一个名词: 图床 ,啥??图床是啥??
-介个....介个...哎呀,自己 ```Google``` 去啦~
+首先说一个名词: 图床 ，啥??图床是啥??
+介个....介个...哎呀，自己 `Google` 去啦~
 
-了解了图床是啥之后,就认识到图床的重要性了吧
+了解了图床是啥之后，就认识到图床的重要性了吧
 关于各种 收费 免费 常用 的图床可以 [参考这里](https://www.zhihu.com/question/21349585)
 
-我这里用的是 七牛云,所以就简单说一下好啦
+我这里用的是 七牛云，所以就简单说一下好啦
 
-之前没用过的话,注册账号,登录,然后如图所示,创建 对象存储(我理解的即使给你以后要上传的图片 文件 之类的东东找个地方待着)
+之前没用过的话，注册账号，登录，然后如图所示，创建 对象存储(我理解的即使给你以后要上传的图片 文件 之类的东东找个地方待着)
 ![16](http://agcaiyun.compelcode.com/16.png)
 然后根据提示进行完善信息就可以啦
 ![17](http://agcaiyun.compelcode.com/17.png)
-再然后就是根据图示,选择需要上传的文件
+再然后就是根据图示，选择需要上传的文件
 ![18](http://agcaiyun.compelcode.com/18.png)
 上传成功后如图所示
 ![19](http://agcaiyun.compelcode.com/19.png)
-然后在三个点那里就可以获得相关图片的 链接 啦,然后就可以轻松的在 ```markdown``` 中插入需要的图片啦
+然后在三个点那里就可以获得相关图片的 链接 啦，然后就可以轻松的在 `markdown` 中插入需要的图片啦
 
-**另外** 其实还有一个更简单的方法,就是使用浏览器插件
-* 下载 ```Demo 集锦- 七牛云存储``` 的 [qiniu upload files](https://chrome.google.com/webstore/detail/qiniu-upload-files/emmfkgdgapbjphdolealbojmcmnphdcc) 插件
-    > 1.七牛云插件,像使用桌面系统一样管理你的七牛云空间 2.支持拖拽上传，批量操作，文件处理等功能
-* 安装之后,在浏览器的右上角部位会有一个图标,你一看就知道啦
+**另外** 其实还有一个更简单的方法，就是使用浏览器插件
+* 下载 `Demo 集锦- 七牛云存储` 的 [qiniu upload files](https://chrome.google.com/webstore/detail/qiniu-upload-files/emmfkgdgapbjphdolealbojmcmnphdcc) 插件
+    > 1.七牛云插件，像使用桌面系统一样管理你的七牛云空间 2.支持拖拽上传，批量操作，文件处理等功能
+* 安装之后，在浏览器的右上角部位会有一个图标，你一看就知道啦
 * 然后根据实际情况填写表单
-* 之后点击浏览器右上角的那个图标,把需要的图片或者文件拖进去,就会看到文件上传成功之后的显示
-![20](http://agcaiyun.compelcode.com/20.png),在邮件复制外链地址就可以啦
-**遗留问题**: 但是这个方法我测试没成功,好像跟 我选择区域为 华北 有关系, 出现的错误提示是: 
+* 之后点击浏览器右上角的那个图标，把需要的图片或者文件拖进去，就会看到文件上传成功之后的显示
+![20](http://agcaiyun.compelcode.com/20.png)，在邮件复制外链地址就可以啦
+**遗留问题**: 但是这个方法我测试没成功，好像跟 我选择区域为 华北 有关系， 出现的错误提示是: 
 ![21](http://agcaiyun.compelcode.com/21.png)
 ![22](http://agcaiyun.compelcode.com/22.png)
-```客户端认证授权失败。请重试或提交反馈。(401：bad token)```
+`客户端认证授权失败。请重试或提交反馈。(401：bad token)`
 
-如果您有相关建议的话,还希望您能 不吝赐教哦~~
+如果您有相关建议的话，还希望您能 不吝赐教哦~~
 
 #### 管理 GitHub 文件库插件安利
 * GitHub 现有的目录层级形式，在查看来自不同层级文件夹的文件的时候，显得似乎不是很方便，Octotree 这款 Chrome 插件能够让你通过文档库的方式管理、查看你的 GitHub 仓库，简单直观的同时，也方便你进行文件之间的跳转操作
@@ -243,23 +242,23 @@ Markdown 是什么? Markdown是一种轻量级的 标记语言,很简单易用,�
 #### 关于百度统计
 > 2017-10-04 更新补充
 
-* 在 [百度统计](https://tongji.baidu.com/web/welcome/login) 注册账号,关于注册站长版还是客户版或者移动统计,可以 [参考这里](http://tongji.baidu.com/web/help/article?id=170&type=0) 
-* 然后根据 [参考资料](http://tongji.baidu.com/web/help/article?id=170&type=0) 的提示进行账号登录,添加站点,获取代码 的操作
-* 获取代码之后,我们只要其中的一部分(下图方框的那部分)
+* 在 [百度统计](https://tongji.baidu.com/web/welcome/login) 注册账号，关于注册站长版还是客户版或者移动统计，可以 [参考这里](http://tongji.baidu.com/web/help/article?id=170&type=0) 
+* 然后根据 [参考资料](http://tongji.baidu.com/web/help/article?id=170&type=0) 的提示进行账号登录，添加站点，获取代码 的操作
+* 获取代码之后，我们只要其中的一部分(下图方框的那部分)
 ![27](http://agcaiyun.compelcode.com/27.png)
-* 将获取的部分添加到博客所在文件夹中的 ```_includes/footer.html```
+* 将获取的部分添加到博客所在文件夹中的 `_includes/footer.html`
 ![28](http://agcaiyun.compelcode.com/28.png)
-* **在博客所在文件夹下运行 ```jekyll s``` 命令**
-> 如果不运行,添加的 ```track_id``` 不能与 ```_site``` 关联起来,就算将 ```_site``` 放到了自己的云主机上,统计信息也不能被百度统计获取到
-* 然后将 ```_site``` 文件上传到自己的云主机上
-* 再打开百度统计,就能看到最近的访问信息了(可能会有一定时间的延迟,可以耐心等一下)
+* **在博客所在文件夹下运行 `jekyll s` 命令**
+> 如果不运行，添加的 `track_id` 不能与 `_site` 关联起来，就算将 `_site` 放到了自己的云主机上，统计信息也不能被百度统计获取到
+* 然后将 `_site` 文件上传到自己的云主机上
+* 再打开百度统计，就能看到最近的访问信息了(可能会有一定时间的延迟，可以耐心等一下)
 ![29](http://agcaiyun.compelcode.com/29.png)
 
 
 
-这篇文章挺长的,看到这里肯定辛苦了吧,谢谢您的阅读啦 ^ _ ^ 
+这篇文章挺长的，看到这里肯定辛苦了吧，谢谢您的阅读啦 ^ _ ^ 
 
-然后,然后有个厚脸皮的小小请求,您看看在我码这么多字的情况下,可不可以赏脸给个赞呢??哎呀,我知道你会同意的啦~~
+然后，然后有个厚脸皮的小小请求，您看看在我码这么多字的情况下，可不可以赏脸给个赞呢??哎呀，我知道你会同意的啦~~
 在 [这里啦](https://github.com/Agcaiyun/Agcaiyun.github.io/)
 ![24](http://agcaiyun.compelcode.com/24-stars.png)
 

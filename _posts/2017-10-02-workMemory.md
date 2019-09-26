@@ -9,7 +9,7 @@ catalog:          true
 tags:             
     - 小生活 大脑洞
 ---
-> 本文首发于 [Caiyun Blog](http://agcaiyun.cn/ ),作者 [@Caiyun](https://github.com/Agcaiyun),  如果您喜欢想转载,这是我的荣幸,您只需要保留原文链接就好啦,谢谢哦 ^_^
+> 本文首发于 [Caiyun Blog](http://agcaiyun.github.io/ ),作者 [@Caiyun](https://github.com/Agcaiyun),  如果您喜欢想转载,这是我的荣幸,您只需要保留原文链接就好啦,谢谢哦 ^_^
 
 > 该博文呢,是在签好工作(17-09-28)后的第四天(17-10-02)来写的,主要就是记录一些找工作过程中的一些人和事,都是个人经历,所以不接受建议或者意见哦~~
 
