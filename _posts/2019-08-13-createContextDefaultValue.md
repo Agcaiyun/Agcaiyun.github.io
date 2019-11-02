@@ -68,11 +68,11 @@ export default App;
 ```javascript
     render() {
         return (
-            <Fragment>
+            <>
                 <ThemeContext.Provider value={'test'}>
                     < Toolbar />
                 </ThemeContext.Provider>
-            </Fragment >
+            </>
         )
     }
 }
