@@ -12,7 +12,7 @@ tags:
 
 今天学习 React Context 内容，根据官方文档输入如下代码
 
-```
+```js
 import React, { Component, Fragment } from 'react';
 
 const ThemeContext = React.createContext('light')
