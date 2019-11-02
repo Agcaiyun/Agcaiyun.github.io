@@ -12,7 +12,7 @@ tags:
 
 今天学习 React Context 内容，根据官方文档输入如下代码
 
-```js
+```javascript
 import React, { Component, Fragment } from 'react';
 
 const ThemeContext = React.createContext('light')
@@ -22,7 +22,7 @@ class App extends Component {
         return (
             <Fragment>
                 <ThemeContext.Provider value={'test'}>
-                    < Toolbar />
+                    <Toolbar />
                 </ThemeContext.Provider>
             </Fragment >
         )
@@ -70,7 +70,7 @@ export default App;
         return (
             <>
                 <ThemeContext.Provider value={'test'}>
-                    < Toolbar />
+                    <Toolbar />
                 </ThemeContext.Provider>
             </>
         )
