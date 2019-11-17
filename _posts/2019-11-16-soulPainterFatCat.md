@@ -1,7 +1,7 @@
 ---
 layout:           post
 title:            灵魂画手 
-subtitle:         a litter pig
+subtitle:         a fat cat
 date:             2019-11-16
 anthor:           caiyun
 header-img:       img/SoulPainter/soul-painter-header.jpg
