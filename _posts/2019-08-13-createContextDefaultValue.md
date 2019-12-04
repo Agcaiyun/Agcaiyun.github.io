@@ -1,6 +1,6 @@
 ---
 layout:           post
-title:            React Context 学习
+title:            React createContext 学习
 subtitle:         createContext 传入的默认值不起作用
 date:             2019-08-13
 anthor:           caiyun
@@ -60,7 +60,7 @@ function Button(props) {
 export default App;
 ```
 
-然后想测试下 `React.createContext` 传入的默认值是否起作用，于是将 `<ThemeContext.Provider value={'test'}>` 中的 `value{'test'}` 去掉了，但是发现 `React.createContext('light')` 中传入的 'light' 并没有发挥默认值的作用，然后查了些资料
+然后想测试下 `React.createContext` 传入的默认值是否起作用，于是将 `<ThemeContext.Provider value={'test'}>` 中的 `value={'test'}` 去掉了，但是发现 `React.createContext('light')` 中传入的 'light' 并没有发挥默认值的作用，然后查了些资料
 
 解决方法：
 去掉 ThemeContext 相关的 Provider，即将 `App` 组件更改为:
