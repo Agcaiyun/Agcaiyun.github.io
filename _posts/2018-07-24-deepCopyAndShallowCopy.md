@@ -1,3 +1,15 @@
+---
+layout:           post
+title:            深浅拷贝
+subtitle:         深拷贝和浅拷贝的应用和例子
+date:             2018-07-24
+anthor:           caiyun
+header-img:       img/17-10-02-header.jpg 
+catalog:          true
+tags:             
+    - JavaScript
+---
+
 ## 内置类型
 JS 中有其中内置类型，分为基本类型和对象（*对象又叫做引用类型*），其中基本类型有六种，分别为：`null` `undefined` `boolean` `number` `string` `symbol`
 * string 在一些其他语言中是被当做对象使用的，属于引用类型，但在js里是基本类型

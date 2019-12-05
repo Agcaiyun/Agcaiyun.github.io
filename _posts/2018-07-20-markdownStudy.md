@@ -1,3 +1,15 @@
+---
+layout:           post
+title:            markdown 语法
+subtitle:         常用md语法总结
+date:             2018-07-20
+anthor:           caiyun
+header-img:       img/17-10-02-header.jpg 
+catalog:          true
+tags:             
+    - Tools
+---
+
 <a href="http://wowubuntu.com/markdown/">markdown语法学习网址</a>
 
 ## 兼容 HTML
