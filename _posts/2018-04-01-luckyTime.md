@@ -4,11 +4,12 @@ title:            或许冥冥之中自有安排吧
 subtitle:         你相信缘分吗？  
 date:             2018-04-01 
 anthor:           caiyun
-header-img:       img/18-04-01-header.jpg 	 
+header-img:       img/header/18-04-10-lucky-time-header.jpg	 
 catalog:          true
 tags:
     - 小生活 大脑洞
 ---
+
 > 本文首发于 [Caiyun Blog](http://agcaiyun.github.io/ ),作者 [@Caiyun](https://github.com/Agcaiyun),  如果您喜欢想转载,这是我的荣幸,您只需要保留原文链接就好啦,谢谢哦 ^_^
 
 > 就像张爱玲在散文《爱》中所写：“于千万人之中遇见你遇见的人，于千万年之中时间的无涯的荒野里，没有早一步，也没有晚一步，正巧赶上了，那也没有什么别的可说，唯有轻轻问一句：“哦，你也在这里吗？””

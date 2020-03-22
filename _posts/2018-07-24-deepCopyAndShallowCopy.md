@@ -4,7 +4,7 @@ title:            深浅拷贝
 subtitle:         深拷贝和浅拷贝的应用和例子
 date:             2018-07-24
 anthor:           caiyun
-header-img:       img/17-10-02-header.jpg 
+header-img:       img/header/18-07-24-copy-header.jpg 
 catalog:          true
 tags:             
     - JavaScript

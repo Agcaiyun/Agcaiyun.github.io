@@ -4,10 +4,10 @@ title:            ruby 安装
 subtitle:         mac os 10.13.6
 date:             2019-06-19
 anthor:           caiyun
-header-img:       img/17-12-20-header.jpg 
+header-img:       img/header/19-06-19-ruby-install-header.jpg 
 catalog:          true
 tags:             
-    - css
+    - tools
 ---
 
 > 原文链接：https://www.jianshu.com/p/dfc12df2b7e6

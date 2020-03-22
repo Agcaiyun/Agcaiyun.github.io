@@ -4,11 +4,12 @@ title:            GitLab 如何删除一个 Porject？
 subtitle:         时间:2018/04/12   环境:win10 x64
 date:             2018-04-12 
 anthor:           caiyun
-header-img:       img/GitLabRemoveProject-img/18-04-12-header.jpg 	 
+header-img:       img/header/18-04-12-gitlab-remove-header.jpg	 
 catalog:          true
 tags:
     - Tools
 ---
+
 > 本文首发于 [Caiyun Blog](http://agcaiyun.github.io/ ),作者 [@Caiyun](https://github.com/Agcaiyun),  如果您喜欢想转载,这是我的荣幸,您只需要保留原文链接就好啦,谢谢哦 ^_^
 
 > 今天需要将 GitLab 中一个私人Project 删掉，通常来说删除一个项目挺简单的，但是因为删除操作在项目中有内容时被隐藏了，所以花了一些时间才找到，于是将找到的过程分享出来

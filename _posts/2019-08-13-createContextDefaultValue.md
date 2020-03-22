@@ -4,7 +4,7 @@ title:            React createContext 学习
 subtitle:         createContext 传入的默认值不起作用
 date:             2019-08-13
 anthor:           caiyun
-header-img:       img/transform-img/transform-header.jpg	 
+header-img:       img/header/19-08-13-create-context-header.jpg	 
 catalog:          true
 tags:
     - React

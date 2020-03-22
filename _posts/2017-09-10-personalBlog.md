@@ -4,11 +4,12 @@ title:            github pages + jekyll 搭建个人博客
 subtitle:         时间:2017/09/10   环境:win7 x64
 date:             2017-09-10 
 anthor:           caiyun
-header-img:       img/17-09-10-header.jpg 	 
+header-img:       img/header/17-09-10-blog-header.jpg
 catalog:          true
 tags:
     - blog
 ---
+
 > 本文首发于 [Caiyun Blog](http://agcaiyun.github.io/ )，作者 [@Caiyun](https://github.com/Agcaiyun)，  如果您喜欢想转载，这是我的荣幸，您只需要保留原文链接就好啦，谢谢哦~
 
 > 该文章步骤详细，更适合 大白(●—●) 型的朋友.如果您觉得 `low` ，希望您能吐槽，给我成长和改进的机会，如果您发现其中有错误或者不当的地方，也欢迎您随时联系，我会及时更正，在此谢过~

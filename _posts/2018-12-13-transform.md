@@ -4,7 +4,7 @@ title:            JS 实现二进制与十进制的相互转换
 subtitle:         JavaScript 实现二进制与十进制的相互转换 
 date:             2018-12-13
 anthor:           caiyun
-header-img:       img/2018-12-13-transform-header.jpg	 
+header-img:       img/header/18-12-13-transform-header.jpg	 
 catalog:          true
 tags:
     - JavaScript
